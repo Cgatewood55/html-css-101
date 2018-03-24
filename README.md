@@ -1,4 +1,4 @@
-#HTML and CSS 101
+
 
 ## Description
 Practiced HTML and CSS by copying design from CSS zen garden. Focused on writing semantic HTML and having well organized CSS
