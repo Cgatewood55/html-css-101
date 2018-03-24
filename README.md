@@ -1,3 +1,4 @@
+
 ## HTML and CSS 101
 
 ## Description
@@ -12,3 +13,4 @@ Practiced HTML and CSS by copying design from CSS zen garden. Focused on writing
 1. in your browser navigation to: localhost:9999
 ## Contributors
 [Christian Gatewood](https://github.com/Cgatewood55)
+
